@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning how to use github - just finished the introduction exercise
+
 <!--
 **epauls60/epauls60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
